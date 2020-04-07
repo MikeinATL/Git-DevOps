@@ -1,2 +1,0 @@
-Git is a local Repo
-While Github is a Remote repo
