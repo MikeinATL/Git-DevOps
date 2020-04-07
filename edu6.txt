@@ -1,3 +1,0 @@
-A new list of files.
-Adding a second line to a new file.
-Adding a third line to the same file.
